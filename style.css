@@ -1,0 +1,146 @@
+#div1 {
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+  border-radius: 5px;
+}
+#p1 {
+  color: white;
+  font-weight: 800;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#div5 {
+  color: black;
+}
+#h2 {
+  color: white;
+  font-weight: 1000;
+  font-size: xx-large;
+}
+#header1 {
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+}
+#div3 {
+  display: flex;
+  justify-content: center;
+}
+#button2 {
+  border-color: #fec72e;
+  background-color: black;
+  width: 100px;
+  height: 40px;
+  border-radius: 40px;
+  color: #fec72e;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+#div4 {
+  background-color: #151515;
+  display: flex;
+  justify-content: space-evenly;
+}
+#div7 {
+  background-color: #151515;
+}
+#div8 {
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+#button3 {
+  border-color: #fec72e;
+  background-color: #151515;
+  width: 100px;
+  height: 40px;
+  border-radius: 40px;
+  color: #fec72e;
+
+  margin-top: 10px;
+}
+#div9 {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: ;
+}
+#div13 {
+  margin-left: 10px;
+  text-align: center;
+  border-color: black;
+  background-color: #fec72e;
+  border: 1000px;
+  color: black;
+  border-radius: 10px;
+}
+#div14 {
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+}
+#div10 {
+  background-color: #151515;
+  border-color: grey;
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
+img {
+  padding-top: 10px;
+}
+#div11 {
+  color: white;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+}
+#p2 {
+  color: black;
+}
+#div12 {
+  color: black;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+}
+ul {
+  color: white;
+  font-weight: 800;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#home {
+  color: #fec72e;
+  font-weight: 800;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: black;
+  border: none;
+  padding-top: 20px;
+}
+#h1 {
+  color: white;
+  font-weight: 1000;
+  font-size: xx-large;
+}
+p {
+  color: white;
+  font-weight: 600;
+}
+#bmw {
+  width: 800px;
+}
+#black {
+  width: 500px;
+}
+#button1 {
+  background-color: #fec72e;
+  width: 180px;
+  height: 30px;
+  border-radius: 30px;
+  border: none;
+  font-weight: 600;
+  margin-bottom: 100px;
+  margin-top: 20px;
+}
