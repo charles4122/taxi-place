@@ -1,11 +1,12 @@
-let rippers = document.querySelectorAll("#ripper");
+let ripperete = document.querySelectorAll("#ripperete");
 // for (buttons of button) {
 //   buttons.addEventListener("click", () => {
 //     buttons.style.backgroundColor = "green";
 //     return;
 //   });
 // }
-ripper.addEventListener("click", () => {
-  ripper.style.backgroundColor = "green";
+
+ripperete.addEventListener("click", () => {
+  ripperete.style.backgroundColor = "green";
   return;
 });

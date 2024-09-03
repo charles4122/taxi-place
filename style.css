@@ -64,7 +64,6 @@
   display: flex;
   justify-content: center;
   margin-top: 20px;
-  margin-bottom: ;
 }
 #div13 {
   margin-left: 10px;
@@ -80,20 +79,77 @@
   display: flex;
   justify-content: center;
 }
-
+#div16 {
+  color: white;
+  display: flex;
+}
 #div15 {
   display: flex;
   margin-left: 70px;
   color: white;
 }
+#div17 {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 30px;
+  align-self: center;
+}
+#div16 {
+  margin-left: 20px;
+}
+#ripperest {
+  width: 30px;
+  height: 30px;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+#ripperete {
+  width: 30px;
+  height: 30px;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+#rippers {
+  width: 30px;
+  height: 30px;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+#ripper {
+  width: 30px;
+  height: 30px;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+#cars {
+  display: flex;
+  justify-content: space-evenly;
+}
+#div19 {
+  display: flex;
+  justify-content: space-evenly;
+}
+#tabs {
+  width: 200px;
+}
+
+#div16 {
+  border: 2px solid gray;
+  display: flex;
+}
+#div18 {
+  display: flex;
+}
 #div10 {
   background-color: #151515;
-  border-color: grey;
+  border: 2px solid grey;
   border-radius: 10px;
   margin-left: 20px;
   margin-right: 10px;
 }
-
+#tex {
+  margin-left: 20px;
+}
 img {
   padding-top: 10px;
 }
@@ -149,4 +205,12 @@ p {
   font-weight: 600;
   margin-bottom: 100px;
   margin-top: 20px;
+}
+#section3 {
+  background-color: #151515;
+  display: flex;
+  justify-content: center;
+}
+#inputBox {
+  color: black;
 }
