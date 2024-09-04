@@ -1,216 +1,59 @@
+#section1 {
+  background-color: black;
+  color: white;
+}
+#nav {
+  display: flex;
+}
 #div1 {
-  background-color: black;
   display: flex;
   justify-content: space-evenly;
-  border-radius: 5px;
-}
-#p1 {
-  color: white;
-  font-weight: 800;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-}
-#div5 {
-  color: black;
-}
-#h2 {
-  color: white;
-  font-weight: 1000;
-  font-size: xx-large;
-}
-#header1 {
-  background-color: black;
-  display: flex;
-  justify-content: space-evenly;
-}
-#div3 {
-  display: flex;
-  justify-content: center;
-}
-#button2 {
-  border-color: #fec72e;
-  background-color: black;
-  width: 100px;
-  height: 40px;
-  border-radius: 40px;
-  color: #fec72e;
-  margin-left: 30px;
-  margin-top: 10px;
-}
-#div4 {
-  background-color: #151515;
-  display: flex;
-  justify-content: space-evenly;
-}
-#div7 {
-  background-color: #151515;
-}
-#div8 {
-  color: white;
-  display: flex;
-  justify-content: center;
-  margin-top: 50px;
-}
-#button3 {
-  border-color: #fec72e;
-  background-color: #151515;
-  width: 100px;
-  height: 40px;
-  border-radius: 40px;
-  color: #fec72e;
-
-  margin-top: 10px;
-}
-#div9 {
-  display: flex;
-  justify-content: center;
-  margin-top: 20px;
-}
-#div13 {
-  margin-left: 10px;
-  text-align: center;
-  border-color: black;
-  background-color: #fec72e;
-  border: 1000px;
-  color: black;
-  border-radius: 10px;
-}
-#div14 {
-  margin-bottom: 50px;
-  display: flex;
-  justify-content: center;
-}
-#div16 {
-  color: white;
-  display: flex;
-}
-#div15 {
-  display: flex;
-  margin-left: 70px;
-  color: white;
-}
-#div17 {
-  display: flex;
-  justify-content: space-evenly;
-  margin-left: 30px;
-  align-self: center;
-}
-#div16 {
-  margin-left: 20px;
-}
-#ripperest {
-  width: 30px;
-  height: 30px;
-  margin-top: 15px;
-  margin-left: 10px;
-}
-#ripperete {
-  width: 30px;
-  height: 30px;
-  margin-top: 15px;
-  margin-left: 10px;
-}
-#rippers {
-  width: 30px;
-  height: 30px;
-  margin-top: 15px;
-  margin-left: 10px;
-}
-#ripper {
-  width: 30px;
-  height: 30px;
-  margin-top: 15px;
-  margin-left: 10px;
-}
-#cars {
-  display: flex;
-  justify-content: space-evenly;
-}
-#div19 {
-  display: flex;
-  justify-content: space-evenly;
-}
-#tabs {
-  width: 200px;
-}
-
-#div16 {
-  border: 2px solid gray;
-  display: flex;
-}
-#div18 {
-  display: flex;
-}
-#div10 {
-  background-color: #151515;
-  border: 2px solid grey;
-  border-radius: 10px;
-  margin-left: 20px;
-  margin-right: 10px;
-}
-#tex {
-  margin-left: 20px;
-}
-img {
-  padding-top: 10px;
-}
-#div11 {
-  color: white;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-bottom: 30px;
-}
-#p2 {
-  color: black;
-}
-#div12 {
-  color: black;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-bottom: 30px;
-}
-ul {
-  color: white;
-  font-weight: 800;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 #home {
-  color: #fec72e;
+  font-family: arial;
   font-weight: 800;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-top: 10px;
   background-color: black;
   border: none;
-  padding-top: 20px;
+  color: #fec72e;
 }
-#h1 {
-  color: white;
-  font-weight: 1000;
+#Features {
+  font-family: arial;
+  font-weight: 800;
+  margin-top: 10px;
+  background-color: black;
+  border-color: #fec72e;
+  color: #fec72e;
+  text-align: center;
+  align-items: center;
+  border-radius: 20px;
+  height: 40px;
+  margin-left: 20px;
+  width: 90px;
+}
+h1 {
   font-size: xx-large;
 }
-p {
-  color: white;
-  font-weight: 600;
-}
-#bmw {
-  width: 800px;
+#rate-us {
+  width: 200px;
+  background-color: #fec72e;
+  color: black;
+  font-family: arial;
+  font-weight: 800;
+  border-radius: 40px;
+  border: none;
+  height: 40px;
 }
 #black {
-  width: 500px;
+  width: 600px;
 }
-#button1 {
-  background-color: #fec72e;
-  width: 180px;
-  height: 30px;
-  border-radius: 30px;
-  border: none;
-  font-weight: 600;
-  margin-bottom: 100px;
-  margin-top: 20px;
+#section2 {
+  display: flex;
+  justify-content: space-evenly;
 }
 #section3 {
   background-color: #151515;
-  display: flex;
-  justify-content: center;
 }
-#inputBox {
-  color: black;
+#bmw {
+  width: 600px;
 }
