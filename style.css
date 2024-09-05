@@ -45,7 +45,7 @@ h1 {
   height: 40px;
 }
 #black {
-  width: 600px;
+  width: 500px;
 }
 #section2 {
   display: flex;
@@ -53,7 +53,150 @@ h1 {
 }
 #section3 {
   background-color: #151515;
+  display: flex;
+  justify-content: space-evenly;
 }
 #bmw {
-  width: 600px;
+  width: 700px;
+}
+#contact-us {
+  background-color: #151515;
+  border-color: #fec72e;
+  color: #fec72e;
+  font-family: arial;
+  font-weight: 800;
+  width: 130px;
+  height: 40px;
+  border-radius: 20px;
+}
+#section4 {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #151515;
+  color: white;
+  padding-top: 50px;
+}
+#div4 {
+  border: 1px solid gray;
+  border-radius: 15px;
+}
+#div6 {
+  background-color: #fec72e;
+  border-radius: 15px;
+  color: black;
+}
+#safety {
+  border-radius: 20px;
+}
+#cabs {
+  width: 200px;
+}
+#div5 {
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#button3 {
+  width: 30px;
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+#div9 {
+  display: flex;
+}
+#p1 {
+  padding-top: 30px;
+}
+#section5 {
+  background-color: #151515;
+  display: flex;
+  justify-content: space-evenly;
+}
+#div7 {
+  border: 1px solid gray;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+#submit-button {
+  width: 250px;
+  height: 40px;
+  background-color: #151515;
+  border-color: #fec72e;
+  border-radius: 20px;
+  color: #fec72e;
+  font-weight: 800;
+  font-family: arial;
+}
+#submit {
+  background-color: #151515;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+#div8 {
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#insta {
+  width: 50px;
+  height: 50px;
+}
+#div10 {
+  text-align: center;
+}
+#section6 {
+  background-color: #151515;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 50px;
+}
+#div10 {
+  background-color: #303030;
+  border-radius: 10px;
+}
+#div11 {
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#follow {
+  background-color: #151515;
+  background-color: #151515;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  text-align: center;
+}
+#section7 {
+  background-color: #151515;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+  justify-content: center;
+}
+#background-footer {
+  background-image: url("gold.png");
+  border-radius: 20px;
+  color: black;
+  margin-left: 180px;
+  margin-right: 180px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+#footer {
+  background-color: #151515;
+  display: flex;
+  justify-content: space-evenly;
+}
+#final {
+  color: white;
+  font-family: arial;
+  font-weight: 800;
+  display: flex;
+  justify-content: center;
+}
+#div12 {
+  text-align: center;
 }
