@@ -185,6 +185,11 @@ h1 {
   padding-top: 100px;
   padding-bottom: 100px;
 }
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: 900;
+}
 #footer {
   background-color: #151515;
   display: flex;
